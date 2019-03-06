@@ -1,0 +1,5 @@
+tensorflow-gpu==1.8.0
+keras==2.2.4
+pillow==5.4.1
+numpy==1.16.0
+sklearn
